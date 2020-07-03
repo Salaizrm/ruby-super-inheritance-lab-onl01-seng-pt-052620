@@ -6,5 +6,5 @@ class ChattyStudent < Student
     Oh man, it was so crazy! What, you don't want any spoilers? Okay well let me just tell you who died..."
   end
 
-  def 
+  def
 end
